@@ -32,7 +32,7 @@ AMBER     = RGBColor(0xC8, 0x7A, 0x1E)
 AMBER_BG  = RGBColor(0xFD, 0xF3, 0xDF)
 WHITE     = RGBColor(0xFF, 0xFF, 0xFF)
 
-KR = "맑은 고딕"
+KR = "Noto Sans KR"
 EN = "Segoe UI"
 EN_L = "Segoe UI Light"
 
